@@ -1,0 +1,19 @@
+package jump_statement;
+
+public class a1_return {
+
+	public static void main(String[] args) {
+		
+		boolean a=true;
+		 
+		System.out.println("hello vijay");
+		
+		if(a) {
+			
+			return;
+		}
+
+		System.out.println("hello kaustubh");
+	}
+
+}
